@@ -1,2 +1,4 @@
-# Data-Preprocessing
- With IEEE SB, i have made this project as a final project in python development committe.
+## Project Description
+Using numpy and pandas libraries to do data pre-processing.
+
+
